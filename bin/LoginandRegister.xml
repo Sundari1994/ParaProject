@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+	  <parameter name="URL" value="https://parabank.parasoft.com/parabank/index.htm"/>
+    <classes>
+      <class name="ParaBank.Abstrac"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
